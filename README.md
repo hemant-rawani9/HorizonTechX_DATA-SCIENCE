@@ -3,7 +3,14 @@ Python-based unemployment data analysis project exploring unemployment trends, C
 
 
 
+----------------------------------------------------------------------------------------------------------------
+
 For View Task 2 Click Here 👇🏻
+
+https://github.com/hemant-rawani9/HorizonTechX_Unemployment-Analysis/blob/a110a230b978e7f8c833e6f7a37ec3bfea697de8/TASK%202%20.ipynb
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 
 import sys
 import os
@@ -239,13 +246,11 @@ Based on our comprehensive analysis, we can outline several major takeaways:
    * Looking at the non-pandemic timeline, predictable seasonal shifts occur mid-year (summer dips) and end-of-year.
    * **Policy Application**: Governments and local labor agencies can leverage seasonal indices to plan targeted public works, vocational training, and localized hiring initiatives.
 
-For View Task 2 Click Here 👇🏻
-
-https://github.com/hemant-rawani9/HorizonTechX_Unemployment-Analysis/blob/a110a230b978e7f8c833e6f7a37ec3bfea697de8/TASK%202%20.ipynb
 
 
 
 
+-------------------------------------------------------------------------------------------------------------------
 
 
 For View Task 4 Click Here 👇🏻
